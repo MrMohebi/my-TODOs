@@ -7,7 +7,7 @@ todo list of my project to keep an eye on them
 > - [ ] plans
 > - [ ] share plans
 > - [ ] adjust protien conversion factor by user
-
+> - [x] custom food
 
 ### [xray-proxy-grabber-telegram](https://github.com/MrMohebi/xray-proxy-grabber-telegram)
 > - [x] vless protocol support
