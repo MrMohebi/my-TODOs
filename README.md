@@ -6,7 +6,6 @@ todo list of my project to keep an eye on them
 ### [diet-calculator](https://github.com/MrMohebi/diet-calculator)
 > - [ ] plans
 > - [ ] share plans
-> - [ ] adjust protien conversion factor by user
 > - [x] custom food
 
 ### [xray-proxy-grabber-telegram](https://github.com/MrMohebi/xray-proxy-grabber-telegram)
