@@ -4,8 +4,8 @@ todo list of my project to keep an eye on them
 
 
 ### [diet-calculator](https://github.com/MrMohebi/diet-calculator)
-> - [ ] plans
-> - [ ] share plans
+> - [ ] show all plans
+> - [x] share plans
 > - [x] custom food
 
 ### [xray-proxy-grabber-telegram](https://github.com/MrMohebi/xray-proxy-grabber-telegram)
